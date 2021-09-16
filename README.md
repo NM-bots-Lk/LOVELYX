@@ -25,7 +25,7 @@ BEST CHANNEL FOR LOVE STATUS AND SHAYRI CLICK ON BELOW PAGE TO JOIN 🤗
  
 [![LOVE SHAYRI](https://telegra.ph/file/1664ecfc1e06715344d32.jpg)](https://telegram.me/SHAYRI_OF_LOVES)
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NM-bots-Lk/LOVELYX"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-redviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NM-bots-Lk/LOVELYX"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-greenviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ## CREDITS
 
